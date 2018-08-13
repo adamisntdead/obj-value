@@ -1,6 +1,6 @@
 # obj-value
 
-> Safely access javascript object values
+> Safely access javascript object values [![NpmVersion](https://img.shields.io/npm/v/obj-value.svg)](https://www.npmjs.com/package/obj-value)
 
 ## Usage
 
