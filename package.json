@@ -1,0 +1,24 @@
+{
+  "name": "obj-value",
+  "version": "1.0.0",
+  "description": "Access a value of an object safely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamisntdead/obj-value.git"
+  },
+  "keywords": [
+    "object",
+    "property",
+    "access"
+  ],
+  "author": "Adam Kelly <adamkelly2201@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamisntdead/obj-value/issues"
+  },
+  "homepage": "https://github.com/adamisntdead/obj-value#readme"
+}
