@@ -1,6 +1,6 @@
 {
   "name": "obj-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access a value of an object safely",
   "main": "index.js",
   "scripts": {
